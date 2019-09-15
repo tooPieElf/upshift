@@ -42,8 +42,9 @@ body {
 } */
 button.btn.mx-2.nav-btn{
     border-radius: 50px;
-    padding: .8em;
+    padding: .4em;
     width: 7em;
+    background-color:rgba(199, 199, 199, 0.7)
 }
 header{
     background-color: #f8f9fa;
